@@ -1,9 +1,9 @@
 # mc-sensinglight
 
 ## Getting Started
-- [ x ] Generate a repo by clicking on "Use this template".  Then follow instructions and edit that repo.  You may want to choose a consistent naming convention such as using a 'mc-' prefix for your makecode projects.   
-- [ x ] Rename the project within the README.md.
-- [ x ] Import on https://makecode.microbit.org/
+- [x] Generate a repo by clicking on "Use this template".  Then follow instructions and edit that repo.  You may want to choose a consistent naming convention such as using a 'mc-' prefix for your makecode projects.   
+- [x] Rename the project within the README.md.
+- [x] Import on https://makecode.microbit.org/
 - [ ] Rename the project to the name of the repo.
 - [ ] Make your blocks and/or code changes.   
 - [ ] Click on "Javascript" within the code editor.
